@@ -1,0 +1,14 @@
+# Entornos virtuales  
+venv/  
+__pycache__/  
+
+# Archivos de configuración del sistema  
+.DS_Store  
+*.log  
+
+# Archivos de descarga  
+downloads/  
+
+# Configuración personal  
+config.json  
+.env  
